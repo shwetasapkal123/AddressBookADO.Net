@@ -10,7 +10,7 @@ namespace AddressBookADONet
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("WEL_COME to address book Ado,net");
+            Console.WriteLine("WEL_COME to address book Ado.net");
             Console.ReadLine();
         }
     }
